@@ -1,0 +1,1 @@
+# Placeholder for image generation logic (calls DALL-E API)

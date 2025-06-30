@@ -1,0 +1,26 @@
+# Node
+node_modules/
+.expo/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Outputs
+build/
+dist/
+
+# OS generated files
+.DS_Store
+thumbs.db

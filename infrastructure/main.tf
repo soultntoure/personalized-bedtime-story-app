@@ -1,0 +1,1 @@
+# Terraform main configuration file (e.g., define VPC, ECS, RDS resources)

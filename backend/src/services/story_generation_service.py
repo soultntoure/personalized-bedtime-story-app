@@ -1,0 +1,1 @@
+# Placeholder for story generation logic (calls OpenAI API)

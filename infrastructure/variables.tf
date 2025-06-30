@@ -1,0 +1,1 @@
+# Terraform input variables (e.g., AWS region, database credentials)

@@ -1,0 +1,1 @@
+# Terraform output variables (e.g., ALB URL, S3 bucket names)
